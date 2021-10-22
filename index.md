@@ -1,6 +1,6 @@
 # This is the Buildville website
 
-** Links: **
+**Links:**
 
 [Wiki](https://github.com/caarfken/Buildville-website/wiki)
 
